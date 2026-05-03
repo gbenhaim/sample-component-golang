@@ -1,4 +1,4 @@
-# Sample Golang Component for Testing Konflux
+a# Sample Golang Component for Testing Konflux
 
 This is an example Golang component for testing [Konflux](https://github.com/konflux-ci/konflux-ci).
 
