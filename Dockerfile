@@ -29,5 +29,6 @@ LABEL distribution-scope="public"
 LABEL url="https://github.com/konflux-ci/sample-component-golang"
 LABEL maintainer="Konflux CI"
 LABEL com.redhat.component="sample-component-golang"
+LABEL project="Lightwell"
 
 CMD ["/sample-component-golang"]
