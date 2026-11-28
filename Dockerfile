@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/hi/go@sha256:d102826b2d627635411154751b76b1dedcd174fc07c94e34bb82cfbcd752bc8a AS builder
+FROM registry.access.redhat.com/hi/go@sha256:7f48b0700b9796fea993981188c1efa27f285d6916ccc891549fa01fb9d95546 AS builder
 
 WORKDIR /workspace
 
